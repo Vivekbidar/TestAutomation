@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-06T16:33:56 IST" name="Suite" finished-at="2024-12-06T16:35:48 IST" duration-ms="111560">
+    <groups>
+    </groups>
+    <test started-at="2024-12-06T16:33:56 IST" name="Test" finished-at="2024-12-06T16:35:48 IST" duration-ms="111560">
+      <class name="mTS.stage.cms.test.DesignConfigsTest">
+        <test-method is-config="true" signature="preSetUp()[pri:0, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:33:56 IST" name="preSetUp" finished-at="2024-12-06T16:34:02 IST" duration-ms="5385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetUp -->
+        <test-method signature="verifyCreatePageTest()[pri:1, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:34:02 IST" name="verifyCreatePageTest" finished-at="2024-12-06T16:34:13 IST" duration-ms="11337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreatePageTest -->
+        <test-method is-config="true" signature="postSetUp()[pri:0, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:34:13 IST" name="postSetUp" finished-at="2024-12-06T16:34:13 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSetUp -->
+        <test-method is-config="true" signature="preSetUp()[pri:0, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:34:13 IST" name="preSetUp" finished-at="2024-12-06T16:34:18 IST" duration-ms="4991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetUp -->
+        <test-method signature="verifyAddComponentsTest()[pri:2, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:34:18 IST" name="verifyAddComponentsTest" finished-at="2024-12-06T16:35:08 IST" duration-ms="50171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddComponentsTest -->
+        <test-method is-config="true" signature="postSetUp()[pri:0, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:35:08 IST" name="postSetUp" finished-at="2024-12-06T16:35:09 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSetUp -->
+        <test-method is-config="true" signature="preSetUp()[pri:0, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:35:09 IST" name="preSetUp" finished-at="2024-12-06T16:35:23 IST" duration-ms="14391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetUp -->
+        <test-method signature="verifyeditComponentsTest()[pri:3, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:35:23 IST" name="verifyeditComponentsTest" finished-at="2024-12-06T16:35:48 IST" duration-ms="24731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyeditComponentsTest -->
+        <test-method is-config="true" signature="postSetUp()[pri:0, instance:mTS.stage.cms.test.DesignConfigsTest@4738a206]" started-at="2024-12-06T16:35:48 IST" name="postSetUp" finished-at="2024-12-06T16:35:48 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSetUp -->
+      </class> <!-- mTS.stage.cms.test.DesignConfigsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
